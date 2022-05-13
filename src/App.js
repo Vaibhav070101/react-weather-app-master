@@ -40,6 +40,8 @@ const AppLabel = styled.span`
   font-size: 18px;
   font-weight: bold;
 `;
+
+// eslint-disable-next-line
 const CloseButton = styled.span`
   padding: 2px 3px;
   background-color: black;
